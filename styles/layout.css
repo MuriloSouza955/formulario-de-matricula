@@ -44,7 +44,7 @@ asside{
         margin-bottom: .5rem;
 
         & span{
-            color: var(--text-highlight);
+            color: var(--text-hightlight);
         }
     }
 }
