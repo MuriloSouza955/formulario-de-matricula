@@ -2,10 +2,14 @@ label + .radio-wrapper{
     margin-top: 1rem;
 }
 
+.input-wrapper{
+}
+
 .radio-wrapper{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));
     gap: 1rem;
+
 }
 
 .radio-inner {
